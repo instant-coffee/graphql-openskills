@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3",
+    "node-fetch": "^1.7.3"
+  },
+  "name": "graphql-openskills",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:instant-coffee/graphql-openskills.git",
+  "author": "Lachlan MacKenzie <lachlanrm@gmail.com>",
+  "license": "MIT"
+}
